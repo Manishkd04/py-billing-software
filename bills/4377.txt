@@ -1,0 +1,17 @@
+	Welcome Famous Retail
+
+ Bill Number : 4377
+ Customer Name: Vishwajeet
+ Phone no.: 9056220704
+ ===============================
+ Products		 QTY	 Price
+ ===============================
+ Bath Soap		9999999999	399999999960
+ Sugar		999999999	149999999850
+ Maza		999999999	29999999970
+ -------------------------------
+ Cosmetic Tax		 Rs. 19999999998.0
+ Grocery Tax		 Rs. 14999999985.0
+ Cold drink Tax	 Rs. 1499999998.5
+ Total Bill : 		 Rs. 616499999761.5
+ -------------------------------

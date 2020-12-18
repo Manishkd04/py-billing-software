@@ -1,0 +1,17 @@
+	Welcome Famous Retail
+
+ Bill Number : 8686
+ Customer Name: Manish
+ Phone no.: 8427955158
+ ===============================
+ Products		 QTY	 Price
+ ===============================
+ Bath Soap		1	40
+ Wheat		2	380
+ Cock		3	330
+ -------------------------------
+ Cosmetic Tax		 Rs. 2.0
+ Grocery Tax		 Rs. 38.0
+ Cold drink Tax		 Rs. 16.5
+ Total Bill : 		 Rs. 806.5
+ -------------------------------

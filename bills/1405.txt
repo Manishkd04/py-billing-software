@@ -1,0 +1,17 @@
+	Welcome Famous Retail
+
+ Bill Number : 1405
+ Customer Name: Vishwajeet
+ Phone no.: 8429755158
+ ===============================
+ Products		 QTY	 Price
+ ===============================
+ Bath Soap			1	40
+ Daal			2	140
+ Thumbs Up			1	170
+ -------------------------------
+ Cosmetic Tax		 Rs. 2.0
+ Grocery Tax		 Rs. 14.0
+ Cold drink Tax	 Rs. 8.5
+ Total Bill : 		 Rs. 374.5
+ -------------------------------

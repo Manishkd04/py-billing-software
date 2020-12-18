@@ -1,0 +1,17 @@
+	Welcome Famous Retail
+
+ Bill Number : 8644
+ Customer Name: Vishwajeet
+ Phone no.: 9056220704
+ ===============================
+ Products		 QTY	 Price
+ ===============================
+ Bath Soap		1	40
+ Wheat		1	190
+ Cock		1	110
+ -------------------------------
+ Cosmetic Tax		 Rs. 2.0
+ Grocery Tax		 Rs. 19.0
+ Cold drink Tax	 Rs. 5.5
+ Total Bill : 		 Rs. 366.5
+ -------------------------------

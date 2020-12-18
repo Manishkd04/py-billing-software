@@ -1,0 +1,17 @@
+	Welcome Famous Retail
+
+ Bill Number : 9505
+ Customer Name: Manish
+ Phone no.: 8427955158
+ ===============================
+ Products		 QTY	 Price
+ ===============================
+ Bath Soap		1	40
+ Daal			1	70
+ Thumbs Up		1	170
+ -------------------------------
+ Cosmetic Tax		 Rs. 2.0
+ Grocery Tax		 Rs. 7.0
+ Cold drink Tax	 Rs. 8.5
+ Total Bill : 		 Rs. 297.5
+ -------------------------------
